@@ -22,7 +22,7 @@ $$
 f(t) = A(1 - \exp(k_{\text{obs}} \cdot t))
 $$
 
-where \( t \) is time, \( A \) is the pre-exponential factor, and \( k_{\text{obs}} \) is the observed rate.
+where $t$ is time, $A$ is the pre-exponential factor, and $k_{\text{obs}}$ is the observed rate.
 
 The activation energy of CC-Di was determined from variable temperature data fit to the Arrhenius equation:
 
